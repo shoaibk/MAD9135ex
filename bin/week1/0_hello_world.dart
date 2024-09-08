@@ -1,1 +1,4 @@
-// print "Hello world" to console
+// write "Hello world" to console
+void main() {
+  print("Hello world");
+}
