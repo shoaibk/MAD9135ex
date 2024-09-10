@@ -5,7 +5,8 @@
 // Sample output: My name is Shoaib and I live in Ottawa
 
 void main() {
-  var name = "Shoaib";
+  var firstName = "Wallace";
+  var lastName = "Zhao";
   var city = "Ottawa";
-  print("My name is $name and I live in $city");
+  print("My name is $firstName $lastName, and I live in $city");
 }
