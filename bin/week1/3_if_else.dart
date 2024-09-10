@@ -5,4 +5,12 @@
 // Sample output:
 // The number is negative
 
-void main() {}
+void main() {
+  int x = 1;
+
+  if (x.isNegative) {
+    print('The number is negative.');
+  } else if (x == 0) {
+    print('')
+  }
+}
