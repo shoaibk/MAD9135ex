@@ -5,4 +5,13 @@
 // Sample output:
 // The number is negative
 
-void main() {}
+void main() {
+    var num = -20;
+    if (num == 0) {
+        print("The number is zero");
+    } else if (num > 0) {
+        print("The number is positive");
+    } else {
+        print("The number is negative");
+    }
+}
