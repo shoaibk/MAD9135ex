@@ -1,2 +1,8 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# MAD9135 - Sammy Hutchinson
+
+This repository contains the exercises and assignments completed by Sammy Hutchinson for the MAD9135 course.
+
+## Overview
+
+- **Course:** MAD9135
+- **Student:** Sammy Hutchinson
