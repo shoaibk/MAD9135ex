@@ -2,3 +2,5 @@
 void main() {
   print("Hello world");
 }
+
+// dart <filename>.dart

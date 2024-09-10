@@ -8,4 +8,17 @@
 // Multiplication: 50
 // Division: ...
 
-void main() {}
+void main() {
+  int number1 = 10;
+  int number2 = 9;
+  int addition = number1 + number2;
+  int subtraction = number1 - number2;
+  int multiplication = number1 * number2;
+  double division = number1 / number2;
+// 
+
+  print(addition);
+  print(subtraction);
+  print(multiplication);
+  print(division);
+}
