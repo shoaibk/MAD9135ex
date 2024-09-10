@@ -5,4 +5,15 @@
 // Sample output:
 // The number is negative
 
-void main() {}
+void main() {
+	int randomNumber = 0; // The number is zero
+	// int randomNumber = 10; // The number is positive
+	// int randomNumber = -5; // The number is negative
+	if (randomNumber > 0) {
+		print("The number is positive");
+	} else if (randomNumber < 0) {
+		print("The number is negative");
+	} else {
+		print("The number is zero");
+	}
+}
