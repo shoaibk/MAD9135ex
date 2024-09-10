@@ -8,4 +8,13 @@
 // Multiplication: 50
 // Division: ...
 
-void main() {}
+int x = 10;
+int y = 25;
+
+void main() {
+  print(x + y);
+
+}
+
+
+
