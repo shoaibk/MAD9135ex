@@ -8,4 +8,16 @@
 // Multiplication: 50
 // Division: ...
 
-void main() {}
+void main() {
+    int num1 = 10;
+    int num2 = 20;
+    var addition = num1 + num2;
+    var subtraction = num1 - num2;
+    var multiplication = num1 * num2;
+    var division = num1 / num2;
+
+    print("Addition: $addition");
+    print("Subtraction: $subtraction");
+    print("Multiplication: $multiplication");
+    print("Division: $division");
+}
